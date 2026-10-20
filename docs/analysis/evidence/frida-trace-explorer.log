@@ -1,0 +1,230 @@
+﻿attaching to explorer.exe pid 7080
+tracing... (drag a window across the monitor boundary now)
+=== taskbar placement trace attached to explorer.exe pid 7080 ===
+    MON#0 rect=(0,0,1920,1080) PRIMARY
+    MON#1 rect=(1920,0,3286,768)
+=== hooks installed: drag a window across the monitor boundary now ===
+[MON] MonitorFromRect (2917,614,2917,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2910,614,2910,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2907,614,2907,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2903,614,2903,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2907,614,2907,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2915,614,2915,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2923,614,2923,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2930,614,2930,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2937,614,2937,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2941,614,2941,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2949,614,2949,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2957,614,2957,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2961,614,2961,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2964,614,2964,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2972,614,2972,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2964,614,2964,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2971,614,2971,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2975,614,2975,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2980,614,2980,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2988,614,2988,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2991,614,2991,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2994,614,2994,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3001,614,3001,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3005,614,3005,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3016,614,3016,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3024,614,3024,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3027,614,3027,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3031,614,3031,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3039,614,3039,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3043,614,3043,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3051,614,3051,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3059,614,3059,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3070,614,3070,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (3074,614,3074,630) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2373,592,3093,656) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (1911,-9,3295,729) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x24c195
+[MON] MonitorFromRect (2393,630,2393,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2397,630,2397,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2400,630,2400,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2407,630,2407,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2411,630,2411,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2414,630,2414,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2418,630,2418,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2422,630,2422,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2430,630,2430,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2438,630,2438,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2443,630,2443,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2454,630,2454,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2461,630,2461,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2464,630,2464,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2468,630,2468,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2476,630,2476,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2480,630,2480,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2488,630,2488,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2496,630,2496,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2499,630,2499,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2507,630,2507,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2515,630,2515,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2519,630,2519,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2522,630,2522,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2526,630,2526,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2530,630,2530,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2535,630,2535,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2543,630,2543,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2548,630,2548,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2552,630,2552,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2560,630,2560,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2552,630,2552,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2556,630,2556,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2564,630,2564,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2571,630,2571,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2575,630,2575,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2578,630,2578,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2586,630,2586,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2594,630,2594,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2598,630,2598,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2606,630,2606,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2614,630,2614,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2619,630,2619,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2627,630,2627,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2635,630,2635,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2642,630,2642,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2650,630,2650,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2654,630,2654,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (2661,630,2661,646) flags=DEFAULTTONEAREST -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=Taskbar.dll+0x7389d
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=Taskbar.dll+0x7389d
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromWindow 0x5600d8 [Chrome_WidgetWin_1] "" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x5600d8 [Chrome_WidgetWin_1] "" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x9d015a [] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTONULL -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1a07ab
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (591,449,591,473) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (591,446,1149,474) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (-9,-9,1929,1029) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x24c195
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromWindow 0x9d015a [] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTONULL -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x1a07ab
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=Taskbar.dll+0x7389d
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0xb304e6 [Chrome_WidgetWin_1] "New Tab - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0xb304e6 [Chrome_WidgetWin_1] "New Tab - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0xb304e6 [Chrome_WidgetWin_1] "New Tab - Google Chrome" flags=DEFAULTTONULL -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1a07ab
+[MON] MonitorFromWindow 0xb304e6 [Chrome_WidgetWin_1] "New Tab - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0xb304e6 [Chrome_WidgetWin_1] "New Tab - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (198,66,200,90) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (198,64,1486,95) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (-9,-9,1929,1029) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x24c195
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0xb304e6 [Chrome_WidgetWin_1] "New Tab - Google Chrome" hidden flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0xb304e6 [Chrome_WidgetWin_1] "New Tab - Google Chrome" hidden flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTONULL -> MON#1 rect=(1920,0,3286,768)  caller=twinui.pcshell.dll+0x1a07ab
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=Taskbar.dll+0x7389d
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=Taskbar.dll+0x7389d
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[CHAIN] migrate 0x200e4 [Shell_TrayWnd] "" slot=3
+[MON] MonitorFromWindow 0x200e4 [Shell_TrayWnd] "" flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=explorer.exe+0x11995
+[MON] MonitorFromWindow 0x200e4 [Shell_TrayWnd] "" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x200e4 [Shell_TrayWnd] "" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7b0442 [Chrome_WidgetWin_1] "OpenCode" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromRect (1919,1019,1920,1019) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (0,1020,0,1020) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (0,1020,1920,1080) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x24c195
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=Taskbar.dll+0x7389d
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#1 rect=(1920,0,3286,768)  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=Taskbar.dll+0x55359
+[CHAIN] migrate 0x200e4 [Shell_TrayWnd] "" slot=3
+[MON] MonitorFromWindow 0x200e4 [Shell_TrayWnd] "" flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=explorer.exe+0x11995
+[CHAIN] dispatcher opcode=-1  (9 = re-evaluate placement)
+[CHAIN] dispatcher opcode=-1  (9 = re-evaluate placement)
+[CHAIN] dispatcher opcode=-1  (9 = re-evaluate placement)
+[CHAIN] dispatcher opcode=-1  (9 = re-evaluate placement)
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTONULL -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1a07ab
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x9d015a [Chrome_WidgetWin_1] "Google - Google Chrome" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (591,449,591,473) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (591,446,1149,474) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (-9,-9,1929,1029) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x24c195
+[MON] MonitorFromWindow 0x6c0378 [Chrome_WidgetWin_1] "" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=Taskbar.dll+0x7389d
+[MON] MonitorFromWindow 0x7705c4 [TaskbarFixProbe] "TaskbarFix cross-monitor probe" flags=DEFAULTTOPRIMARY -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.dll+0x68d55
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (760,576,760,602) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (760,576,1530,602) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (-9,-9,1929,1029) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x24c195
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x200e4 [Shell_TrayWnd] "" TaskbarMonitor -> MON#0 rect=(0,0,1920,1080) PRIMARY
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[PROP] GetPropW 0x5c043c [Shell_SecondaryTrayWnd] "" TaskbarMonitor -> MON#1 rect=(1920,0,3286,768)
+[MON] MonitorFromRect (0,0,0,0) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (760,576,760,602) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x16b995
+[MON] MonitorFromRect (760,576,1530,629) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x1652e7
+[MON] MonitorFromRect (-9,-9,1929,1029) flags=DEFAULTTONEAREST -> MON#0 rect=(0,0,1920,1080) PRIMARY  caller=twinui.pcshell.dll+0x24c195
+
+--- detaching ---

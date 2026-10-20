@@ -1,0 +1,40 @@
+{
+  "name": "dual-monitor-taskbar-fix",
+  "version": "1.0.0",
+  "description": "Make each monitor's Windows 11 taskbar show only the windows that are actually on that monitor.",
+  "keywords": [
+    "windows",
+    "windows11",
+    "taskbar",
+    "multi-monitor",
+    "dual-monitor",
+    "dpi",
+    "per-monitor"
+  ],
+  "homepage": "https://github.com/MaheshSharan/Dual_MonitorTaskbarFix#readme",
+  "bugs": {
+    "url": "https://github.com/MaheshSharan/Dual_MonitorTaskbarFix/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheshSharan/Dual_MonitorTaskbarFix.git"
+  },
+  "license": "MIT",
+  "author": "Mahesh Sharan",
+  "bin": {
+    "dual-monitor-taskbar-fix": "bin/dual-monitor-taskbar-fix.js"
+  },
+  "files": [
+    "bin/dual-monitor-taskbar-fix.js",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "os": [
+    "win32"
+  ],
+  "scripts": {
+    "status": "node bin/dual-monitor-taskbar-fix.js --status"
+  }
+}

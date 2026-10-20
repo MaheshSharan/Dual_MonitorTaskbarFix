@@ -1,0 +1,58 @@
+﻿# Shell binaries copied off the running system by
+# experimental\scripts\fetch_binaries.ps1. Microsoft files, not redistributed
+# with this repository.
+original/
+
+# Ghidra output and analysis databases: large, regenerable. Rebuild with
+#   ..\tools\decompile_elf.ps1 -Target .\original\bin\Taskbar.dll  -OutputDir .\v1\analysis\Taskbar  -ProjectName win11taskbar
+#   ..\tools\decompile_elf.ps1 -Target .\original\bin\explorer.exe -OutputDir .\v1\analysis\explorer -ProjectName winexplorer
+v1/analysis/
+
+# Build output
+build/
+dist/
+experimental/injector/build/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.user
+*.suo
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+
+# Runtime state written by the tool
+taskbarfix.log
+.taskbarfix-backup.json
+
+# Screen captures. These land in v1\analysis\ only, which is already ignored.
+# Deliberately not a blanket *.png: documentation images under docs\ are source.
+/*.png
+/*.bmp
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Crash dumps
+core.*
+*.dmp
+
+# Editor and OS noise
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
